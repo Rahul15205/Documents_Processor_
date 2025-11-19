@@ -1,0 +1,9 @@
+pdfplumber
+groq
+pandas
+tqdm
+sentence-transformers
+faiss-cpu
+numpy
+regex
+python-dotenv
